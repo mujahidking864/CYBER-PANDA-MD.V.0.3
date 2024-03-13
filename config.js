@@ -49,9 +49,9 @@ global.APIKeys = { // APIKey Here
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
-global.botname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋'
+global.botname = '🦋 │MUJAHUD│MJ│𝐕➂ 🦋'
 global.premium = 'true'
-global.packname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋' 
+global.packname = '🦋 │MUJAHID│MJ│𝐕➂ 🦋' 
 global.author = '@SACHITH' 
 global.menuvid = 'https://telegra.ph/Hi-12-11-189'
 global.igfg = '\n\n' 
